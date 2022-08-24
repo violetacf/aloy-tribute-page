@@ -1,1 +1,12 @@
-/* Copy and paste your CSS from CodePen into here */
+#title {
+  font-size: 65px;
+  color: green;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+#img-caption {
+  font-size: 12px;
+}
